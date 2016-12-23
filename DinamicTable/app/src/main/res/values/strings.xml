@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DinamicTable</string>
+    <string name="txtId">ID</string>
+    <string name="txtName">NAME</string>
+
+    <string-array name="listName">
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Javier Medinilla</item>
+        <item>Enrique Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Javier Medinilla</item>
+        <item>Enrique Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Javier Medinilla</item>
+        <item>Enrique Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Javier Medinilla</item>
+        <item>Enrique Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+    </string-array>
+</resources>

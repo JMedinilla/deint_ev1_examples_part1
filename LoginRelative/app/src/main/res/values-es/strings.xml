@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginRelative</string>
+    <string name="btnLoginCancel">Cancelar</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="chbLoginRemember">Recordar</string>
+    <string name="error_data_pass_empty">La contraseña no puede estar vacía</string>
+    <string name="error_data_user_empty">El usuario no puede estar vacío</string>
+    <string name="error_long_pass">La contraseña es demasiado larga</string>
+    <string name="error_long_user">El usuario es demasiado largo</string>
+    <string name="error_password_case">La contraseña debe contener 1 o más letras minúsculas y mayúsculas</string>
+    <string name="error_password_digit">La contraseña debe contener 1 o más dígitos</string>
+    <string name="error_password_length">La contraseña debe tener mínimo 8 caracteres</string>
+    <string name="error_user_length">El usuario debe tener mínimo 6 caracteres</string>
+    <string name="hintPass">Introduce una contraseña</string>
+    <string name="hintUser">Introduce un usuario</string>
+    <string name="txtLoginPassword">Contraseña:</string>
+    <string name="txtLoginUser">Usuario:</string>
+</resources>

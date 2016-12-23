@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="emptyMessage">*El mensaje enviado está vacío*</string>
+    <string name="messageHint">Mensaje</string>
+    <string name="nullMessage">No se ha recibido ningún mensaje</string>
+    <string name="sendMessage">Enviar</string>
+    <string name="txtMessage">Introduce el mensaje a enviar:</string>
+    <string name="txtMessage_2">Mensaje recibido:</string>
+</resources>

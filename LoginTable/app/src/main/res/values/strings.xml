@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTable</string>
+    <string name="txtUser">User:</string>
+    <string name="txtPass">Password:</string>
+    <string name="chbRemember">Remember</string>
+    <string name="btnok">OK</string>
+    <string name="btncancel">Cancel</string>
+</resources>

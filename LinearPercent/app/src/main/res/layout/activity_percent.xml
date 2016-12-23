@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_percent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.jmedinilla.linearpercent.Percent_Activity">
+
+
+    <Button
+        android:background="@drawable/shape_a"
+        android:layout_weight="1"
+        android:text="@string/btn_a"
+        android:id="@+id/btn_a"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+    <Button
+        android:background="@drawable/shape_b"
+        android:layout_weight="1"
+        android:text="@string/btn_b"
+        android:id="@+id/btn_b"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+    <Button
+        android:background="@drawable/shape_c"
+        android:layout_weight="2"
+        android:text="@string/btn_c"
+        android:id="@+id/btn_c"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+</LinearLayout>
